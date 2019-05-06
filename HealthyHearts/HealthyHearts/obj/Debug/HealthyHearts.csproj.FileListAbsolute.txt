@@ -1,0 +1,7 @@
+C:\Users\William\source\repos\HealthyHearts\HealthyHearts\obj\Debug\HealthyHearts.csprojAssemblyReference.cache
+C:\Users\William\source\repos\HealthyHearts\HealthyHearts\obj\Debug\HealthyHearts.csproj.CoreCompileInputs.cache
+C:\Users\William\source\repos\HealthyHearts\HealthyHearts\bin\Debug\HealthyHearts.exe.config
+C:\Users\William\source\repos\HealthyHearts\HealthyHearts\bin\Debug\HealthyHearts.exe
+C:\Users\William\source\repos\HealthyHearts\HealthyHearts\bin\Debug\HealthyHearts.pdb
+C:\Users\William\source\repos\HealthyHearts\HealthyHearts\obj\Debug\HealthyHearts.exe
+C:\Users\William\source\repos\HealthyHearts\HealthyHearts\obj\Debug\HealthyHearts.pdb
