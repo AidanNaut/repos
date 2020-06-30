@@ -1,0 +1,6 @@
+C:\Users\William\source\repos\ConsoleApp2\ConsoleExtender\bin\Debug\ConsoleExtender.dll
+C:\Users\William\source\repos\ConsoleApp2\ConsoleExtender\bin\Debug\ConsoleExtender.pdb
+C:\Users\William\source\repos\ConsoleApp2\ConsoleExtender\obj\Debug\ConsoleExtender.csprojAssemblyReference.cache
+C:\Users\William\source\repos\ConsoleApp2\ConsoleExtender\obj\Debug\ConsoleExtender.csproj.CoreCompileInputs.cache
+C:\Users\William\source\repos\ConsoleApp2\ConsoleExtender\obj\Debug\ConsoleExtender.dll
+C:\Users\William\source\repos\ConsoleApp2\ConsoleExtender\obj\Debug\ConsoleExtender.pdb

@@ -1,0 +1,7 @@
+C:\Users\William\source\repos\ExpressionEval\ExpressionEval\bin\Debug\ExpressionEval.exe.config
+C:\Users\William\source\repos\ExpressionEval\ExpressionEval\bin\Debug\ExpressionEval.exe
+C:\Users\William\source\repos\ExpressionEval\ExpressionEval\bin\Debug\ExpressionEval.pdb
+C:\Users\William\source\repos\ExpressionEval\ExpressionEval\obj\Debug\ExpressionEval.csprojAssemblyReference.cache
+C:\Users\William\source\repos\ExpressionEval\ExpressionEval\obj\Debug\ExpressionEval.csproj.CoreCompileInputs.cache
+C:\Users\William\source\repos\ExpressionEval\ExpressionEval\obj\Debug\ExpressionEval.exe
+C:\Users\William\source\repos\ExpressionEval\ExpressionEval\obj\Debug\ExpressionEval.pdb

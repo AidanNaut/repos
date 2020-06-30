@@ -1,0 +1,17 @@
+C:\Users\William\source\repos\05A_Movie_Catalog\05A_Movie_Catalog.Data\bin\Debug\05A_Movie_Catalog.Data.dll
+C:\Users\William\source\repos\05A_Movie_Catalog\05A_Movie_Catalog.Data\bin\Debug\05A_Movie_Catalog.Data.pdb
+C:\Users\William\source\repos\05A_Movie_Catalog\05A_Movie_Catalog.Data\bin\Debug\05A_Movie_Catalog.Models.dll
+C:\Users\William\source\repos\05A_Movie_Catalog\05A_Movie_Catalog.Data\bin\Debug\Dapper.dll
+C:\Users\William\source\repos\05A_Movie_Catalog\05A_Movie_Catalog.Data\bin\Debug\05A_Movie_Catalog.Models.pdb
+C:\Users\William\source\repos\05A_Movie_Catalog\05A_Movie_Catalog.Data\bin\Debug\Dapper.xml
+C:\Users\William\source\repos\05A_Movie_Catalog\05A_Movie_Catalog.Data\obj\Debug\05A_Movie_Catalog.Data.csprojAssemblyReference.cache
+C:\Users\William\source\repos\05A_Movie_Catalog\05A_Movie_Catalog.Data\obj\Debug\05A_Movie_Catalog.Data.csproj.CoreCompileInputs.cache
+C:\Users\William\source\repos\05A_Movie_Catalog\05A_Movie_Catalog.Data\obj\Debug\05A_Movie_Catalog.Data.csproj.CopyComplete
+C:\Users\William\source\repos\05A_Movie_Catalog\05A_Movie_Catalog.Data\obj\Debug\05A_Movie_Catalog.Data.dll
+C:\Users\William\source\repos\05A_Movie_Catalog\05A_Movie_Catalog.Data\obj\Debug\05A_Movie_Catalog.Data.pdb
+C:\Users\William\source\repos\05A_Movie_Catalog\05A_Movie_Catalog.Data\bin\Debug\05A_Movie_Catalog.Data.dll.config
+C:\Users\William\source\repos\05A_Movie_Catalog\05A_Movie_Catalog.Data\bin\Debug\EntityFramework.dll
+C:\Users\William\source\repos\05A_Movie_Catalog\05A_Movie_Catalog.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\William\source\repos\05A_Movie_Catalog\05A_Movie_Catalog.Data\bin\Debug\05A_Movie_Catalog.Models.dll.config
+C:\Users\William\source\repos\05A_Movie_Catalog\05A_Movie_Catalog.Data\bin\Debug\EntityFramework.xml
+C:\Users\William\source\repos\05A_Movie_Catalog\05A_Movie_Catalog.Data\bin\Debug\EntityFramework.SqlServer.xml

@@ -1,0 +1,5 @@
+George;123 River Way;800-555-5555;pass;Checking;123456
+SBeve;456 Brook Drive;800-123-4567;pass;Savings;654321
+joe shmo;123 alley way, st.paul mn, 55234;6125555555;boss;Checking;585522
+bob slob;445 slack drive, minneapolis mn, 12345;6123434343;secret;MoneyMarket;948735
+tracy spacey;88837 cobblestone road, otsego mn, 55362;7635656565;yeet;Savings;453973

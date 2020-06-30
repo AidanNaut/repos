@@ -1,0 +1,13 @@
+C:\Users\William\source\repos\TableOptimization\TableOptimization\bin\Debug\netcoreapp3.1\TableOptimization.exe
+C:\Users\William\source\repos\TableOptimization\TableOptimization\bin\Debug\netcoreapp3.1\TableOptimization.deps.json
+C:\Users\William\source\repos\TableOptimization\TableOptimization\bin\Debug\netcoreapp3.1\TableOptimization.runtimeconfig.json
+C:\Users\William\source\repos\TableOptimization\TableOptimization\bin\Debug\netcoreapp3.1\TableOptimization.runtimeconfig.dev.json
+C:\Users\William\source\repos\TableOptimization\TableOptimization\bin\Debug\netcoreapp3.1\TableOptimization.dll
+C:\Users\William\source\repos\TableOptimization\TableOptimization\bin\Debug\netcoreapp3.1\TableOptimization.pdb
+C:\Users\William\source\repos\TableOptimization\TableOptimization\obj\Debug\netcoreapp3.1\TableOptimization.csprojAssemblyReference.cache
+C:\Users\William\source\repos\TableOptimization\TableOptimization\obj\Debug\netcoreapp3.1\TableOptimization.csproj.CoreCompileInputs.cache
+C:\Users\William\source\repos\TableOptimization\TableOptimization\obj\Debug\netcoreapp3.1\TableOptimization.AssemblyInfoInputs.cache
+C:\Users\William\source\repos\TableOptimization\TableOptimization\obj\Debug\netcoreapp3.1\TableOptimization.AssemblyInfo.cs
+C:\Users\William\source\repos\TableOptimization\TableOptimization\obj\Debug\netcoreapp3.1\TableOptimization.dll
+C:\Users\William\source\repos\TableOptimization\TableOptimization\obj\Debug\netcoreapp3.1\TableOptimization.pdb
+C:\Users\William\source\repos\TableOptimization\TableOptimization\obj\Debug\netcoreapp3.1\TableOptimization.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\William\source\repos\05A_Movie_Catalog\05A_Movie_Catalog.Models\bin\Debug\05A_Movie_Catalog.Models.dll
+C:\Users\William\source\repos\05A_Movie_Catalog\05A_Movie_Catalog.Models\bin\Debug\05A_Movie_Catalog.Models.pdb
+C:\Users\William\source\repos\05A_Movie_Catalog\05A_Movie_Catalog.Models\obj\Debug\05A_Movie_Catalog.Models.csprojAssemblyReference.cache
+C:\Users\William\source\repos\05A_Movie_Catalog\05A_Movie_Catalog.Models\obj\Debug\05A_Movie_Catalog.Models.csproj.CoreCompileInputs.cache
+C:\Users\William\source\repos\05A_Movie_Catalog\05A_Movie_Catalog.Models\obj\Debug\05A_Movie_Catalog.Models.dll
+C:\Users\William\source\repos\05A_Movie_Catalog\05A_Movie_Catalog.Models\obj\Debug\05A_Movie_Catalog.Models.pdb
+C:\Users\William\source\repos\05A_Movie_Catalog\05A_Movie_Catalog.Models\bin\Debug\05A_Movie_Catalog.Models.dll.config
+C:\Users\William\source\repos\05A_Movie_Catalog\05A_Movie_Catalog.Models\bin\Debug\EntityFramework.dll
+C:\Users\William\source\repos\05A_Movie_Catalog\05A_Movie_Catalog.Models\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\William\source\repos\05A_Movie_Catalog\05A_Movie_Catalog.Models\bin\Debug\EntityFramework.xml
+C:\Users\William\source\repos\05A_Movie_Catalog\05A_Movie_Catalog.Models\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\William\source\repos\05A_Movie_Catalog\05A_Movie_Catalog.Models\obj\Debug\05A_Movie_Catalog.Models.csproj.CopyComplete
