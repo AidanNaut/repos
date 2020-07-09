@@ -4,10 +4,10 @@ using System.Text;
 
 namespace TableOptimization
 {
-    public class Board
+    class Table
     {
-        public double Thickness { get; set; }
-        public double Width { get; set; }
         public double Length { get; set; }
+        public double Width { get; set; }
+        public List<Board> Boards { get; set; }
     }
 }

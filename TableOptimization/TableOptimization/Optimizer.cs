@@ -4,7 +4,8 @@ using System.Text;
 
 namespace TableOptimization
 {
-    class Optimizer
+    public class Optimizer
     {
+        public 
     }
 }
