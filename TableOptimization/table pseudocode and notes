@@ -1,0 +1,63 @@
+pallet wood/reclaimed wood table
+
+pallet wood dimensions
+
+thickness
+deck boards: plane 1/16 each side?
+1/2
+5/8
+3/4
+7/8
+
+stringers: plane 1/8 each side
+1-1/4
+1-1/2
+
+width
+deck boards:
+5-1/2
+3-1/4
+
+stringers:
+1
+1-1/2
+1-1/4
+
+length
+deck boards:
+
+stringers:
+
+
+end result thickness: 1-1/2
+width 5' 6"
+length 2' 6"
+
+
+START at starting layer w/ random board of random thickness and length 
+	add board thickness to table width
+	if there are boards in reuse_pile
+		if reuse_pile contains a board of same thickness
+		place board in table grid
+	else
+		if width of board is wider than 1.5 inch
+			cut board lengthwise to 1.5 inch
+			
+		if remaining_board wider than 1.5 inch
+			cut board lengthwise to 1.5 inch
+			add to reuse_pile
+		else 
+			add remaining board to scrap_pile
+			place board in table grid
+		
+	if length of table exceeds specified table length
+		go to next board layer with board of random thickness and length
+	else 
+		repeat loop using same thickness
+if width of table exceeds specified width
+	end loop
+else
+	continue loop
+		
+		
+		
